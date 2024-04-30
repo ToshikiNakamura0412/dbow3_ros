@@ -1,4 +1,6 @@
 # dbow3_ros
+The ROS package of [DBow3](https://github.com/rmsalinas/DBow3)
+
 ## Environment
 - Ubuntu 20.04
 - ROS Noetic
