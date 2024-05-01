@@ -1,4 +1,7 @@
 # dbow3_ros
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 The ROS package of [DBow3](https://github.com/rmsalinas/DBow3)
 
 ## Environment
