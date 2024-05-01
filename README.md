@@ -10,6 +10,7 @@ The ROS package of [DBow3](https://github.com/rmsalinas/DBow3)
 
 ## Dependencies
 - OpenCV
+- [DBow3](https://github.com/rmsalinas/DBow3.git)
 
 ## Installation
 ```bash
